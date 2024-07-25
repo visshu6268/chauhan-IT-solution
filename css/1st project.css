@@ -1,0 +1,191 @@
+/* .ac {
+    width: 100%;
+    height: 500px;
+
+} */
+
+.img12 {
+    width: 80%;
+}
+
+.first {
+    margin-top: 30px;
+    text-align: justify;
+    line-height: 51px;
+    word-spacing: 2px;
+    letter-spacing: 2px;
+    font-size: 20px;
+    color: #00000099;
+    font-family: math;
+}
+
+.name1 {
+    font-size: 30px;
+
+    color: white !important;
+}
+
+.name2 {
+    font-size: 25px;
+
+    color: white !important;
+}
+
+.mandana {
+    background: url(../image/maxresdefault.jpg);
+    width: 100%;
+}
+
+.Tank {
+    margin-top: 180px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    font-size: 67px;
+    font-weight: 700;
+    font-family: math;
+}
+
+.tank2 {
+    margin-top: 250px;
+    text-align: justify;
+    letter-spacing: 2px;
+    line-height: 38px;
+    font-size: 20px;
+    font-weight: 300;
+    font-family: sans-serif;
+    color: #ffe3e2;
+}
+
+.youtube {
+    text-align: justify;
+    word-spacing: 3px;
+    letter-spacing: 2px;
+    font-size: 30px;
+    font-family: math;
+    line-height: 48px;
+    color: black;
+}
+
+.aa {
+    background-color: #00b2ff57 !important;
+}
+
+.end {
+    height: 500px;
+}
+
+.end1 {
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-size: 39px;
+    font-family: math;
+    color: orange;
+    text-align: center;
+}
+
+.end2 {
+    padding-top: 22px;
+}
+
+.a {
+    font-size: 41px;
+    font-weight: 500;
+    font-family: math;
+    padding-top: 45px;
+}
+
+.hp {
+
+    text-align: center;
+    font-family: math;
+    font-weight: 800;
+    text-transform: uppercase;
+    padding-top: 11px;
+}
+
+.hp1 {
+    text-align: center;
+    font-family: math;
+    font-weight: 800;
+    text-transform: uppercase;
+    padding-top: 11px;
+}
+
+.hp3 {
+    text-align: center;
+    letter-spacing: 2px;
+    color: red;
+    line-height: 44px;
+    font-family: cursive;
+}
+
+.ACCESSORIES {
+    background: #d63384 !important;
+    height: 65px;
+    line-height: 59px;
+}
+
+.xx {
+    background: url("https://mediaserver.goepson.com/ImConvServlet/imconv/07568b417fd676f42bcbd99ebdd8d6cf2e781488/original?use=productpictures&hybrisId=B2C&assetDescr=CTA%20Banner-Label%20Printers-1400X570");
+    background-position: center;
+    background-size: cover;
+    height: 550px;
+}
+
+.xxx {
+    background: url("https://mediaserver.goepson.com/ImConvServlet/imconv/232f68b5ca5551aed5362a02f8838473d7a685a6/original?use=productpictures&hybrisId=B2C&assetDescr=CTA%20Banner-Document%20%26%20Photo%20Scanners-1400X570");
+    background-position: center;
+    background-size: cover;
+    height: 550px;
+
+}
+
+.xxxx {
+    background: url("https://mediaserver.goepson.com/ImConvServlet/imconv/163bea86527ccd1e69366e43a05a0c50d59f12b4/original?use=productpictures&hybrisId=B2C&assetDescr=epson.co.in-1400X570-000");
+    background-position: center;
+    background-size: cover;
+    height: 550px;
+}
+
+.content1 {
+    letter-spacing: 3px;
+   /* text-align: justify;*/
+    word-spacing: 10px;
+    font-family: math;
+}
+
+.content2 {
+
+
+    text-align: justify;
+    line-height: 30px;
+    word-spacing: 20px;
+    /* text-align: center; */
+    letter-spacing: 2px;
+    /*  color: #c31111;*/
+    font-size: 19px;
+}
+
+.xxx2 {
+    background: url("https://mediaserver.goepson.com/ImConvServlet/imconv/163bea86527ccd1e69366e43a05a0c50d59f12b4/original?use=productpictures&hybrisId=B2C&assetDescr=epson.co.in-1400X570-000");
+    background-position: center;
+    background-size: cover;
+    height: 550px;
+}
+.content3 {
+    text-align: justify;
+        font-size: 20px;
+        word-spacing: 7px;
+        letter-spacing: 0px;
+        line-height: 46px;
+}
+.footer {
+    background: black;
+}
+/* .bt {
+    border: 2px solid;
+    border-radius: 6px;
+    height: 39px;
+    width: 117px;
+    margin-top: 7px;
+} */

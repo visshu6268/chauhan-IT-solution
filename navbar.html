@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <!-- bootstrap js link -->
+    <script src="js/bootstrap.bundle.min.js"></script>
+    <style>
+        .weblogo {
+            width: 65px;
+        }
+        .navbar {
+            background: #00000063 !important;
+        }
+        .navbar-nav li {
+            padding: 0 10px;
+        }
+        .navbar-nav li a {
+            color: #fff !important;
+            font-weight: 300px;
+            font-size: 20px;
+        }
+        .moblogo {
+            display: none;
+        }
+       @media(max-width:768px) {
+        .moblogo {
+            display: block;
+        }
+        .weblogo {
+           display: none;
+        }
+        .navbar {
+            background: #fcb21b!important;
+       }
+    } 
+    </style>
+</head>
+<body>
+    <nav class="navbar navbar-expand-md bg-dark navbar-dark fixed-top"> 
+<div class="container-fluid">
+<a href="" class="navbar-brand">  <!--work on margin padding-->
+    <img src="image/ff-logo-02.png" alt="" class="weblogo">
+    <img src="image/logo-for-mobile (1).png" alt="" class="moblogo">
+</a>
+<!-- mobile view -->
+<button class="navbar-toggler"data-bs-toggle="collapse" data-bs-target="#a" > <!--for give a real shape of button-->
+    
+    <span class="navbar-toggler-icon"></span>    <!--for button open a menu-->
+</button>
+
+<div class="navbar-collapse collapse" id="a">
+<ul class="navbar-nav ms-auto text-center">    <!--type none-->
+    <li><a href="" class="nav-link">Home</a></li>   <!--nav link for line-->
+    <li><a href="" class="nav-link">Home</a></li>
+    <li><a href="" class="nav-link">Home</a></li>
+    <li><a href="" class="nav-link">Home</a></li>
+    <li><a href="" class="nav-link">Home</a></li>
+    <li><a href="" class="nav-link">Home</a></li>
+</ul>
+<button class="btn btn-warning" data-bs-toggle="model" data-bs-target="#aa">login</button>
+</div>
+</div> <!--conatiner end-->
+    </nav>
+    <img src="image/ourimage.jpg" alt="" class="w-100">
+      <!--button trigger modal-->
+    <div class="modal fade" id="aa">
+        <div class="modal-dialog modal-md "> <!--modal-xl,md,lg,sm-->
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">login form</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+                </div> <!--modal header end-->
+                <div class="modal-body">
+                    <h1>hello</h1>
+                </div> <!--modal body-->
+            </div> <!--modal content-->
+        </div> <!--model dialog end-->
+    </div><!--modal end-->
+</body>
+</html>
